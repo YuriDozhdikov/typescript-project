@@ -38,7 +38,7 @@ const LoginForm: FC = () => {
             <Row justify="end">
                 <Form.Item>
                     <Button type="primary" htmlType="submit" loading={isLoading}>
-                        Add
+                        Login
                     </Button>
                 </Form.Item>
             </Row>

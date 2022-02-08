@@ -76,7 +76,7 @@ const EventForm: FC<EventFormProps> = (props) => {
             <Row justify="end">
                 <Form.Item>
                     <Button type="primary" htmlType="submit">
-                        Enter
+                        Add event
                     </Button>
                 </Form.Item>
             </Row>
